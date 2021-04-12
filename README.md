@@ -1,4 +1,7 @@
 # 위메프 EDA
+## DeltaX AI Lab.
+### AI Recommendation
+본 Repo는 본인이 진행하는 **AI Recommendation**에 관련된 내용을 담고있다.📖
 
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
 
