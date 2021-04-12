@@ -69,3 +69,5 @@ print (ct)
 for i in range(0,11):
     locals()["y_clust_"+str(i)] = np.where(predict == i)
     locals()['p'+str(i)]=[]
+    
+ print('hello')
